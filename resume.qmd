@@ -1,89 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Isahi Torres's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Isahi Torres  
+Computer Science Student, BYU–Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+📧 <a href="mailto:isahi2099@byui.edu">isahi2099@byui.edu</a>  
+📞 (801) 376-8521  
 </div>
 
+---
 
-## Currently
+## Currently  
+Studying Computer Science with an interest in full-stack development and data science.
 
-Standing on the shoulders of giants
+---
 
-### Specialized in
+## Specialized in  
+Python, SQL, Functional Programming, Customer Communication, Translation
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+---
 
+## Experience
 
-### Research interests
+### Call Center Representative  
+__IND SuperCareHealth__ – Cd. Obregón, Sonora, México  
+*Jan. 2021 – Jan. 2022*
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Received doctor orders for durable medical equipment.
+- Processed STAT orders and coordinated patient discharges.
+- Trained new employees in calls, emails, and order workflows.
 
+### Translator  
+__Rusken Packaging__ – Conyers, Georgia  
+*Feb. 2023 – Apr. 2024*
+
+- Translated English safety meetings for 40+ Spanish-speaking workers.
+- Member of the safety board team.
+
+### Volunteer Representative  
+__The Church of Jesus Christ of Latter-day Saints__ – Brazil Brasília Mission  
+*Apr. 2019 – Aug. 2020*
+
+- Adapted to new cultures and environments across Brazil.
+- Maintained thorough administrative records and area reports.
+
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Brigham Young University–Idaho – Rexburg, ID  
+**Bachelor of Science in Computer Science** – *Expected Apr. 2024*  
+- Functional Programming Certificate  
+- Computer Programming Certificate
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+---
 
-- Sizar
+## Skills & Languages
 
-`1667 - death`
-__Trinity College, Cambridge__
+- **Languages**: Spanish (Native), English (High), Portuguese (Intermediate)  
+- **Traits**: Responsible, Quick Learner  
+- **Tools**: Python, SQL, GitHub, HTML/CSS, VS Code
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
