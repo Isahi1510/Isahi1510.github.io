@@ -1,10 +1,25 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "My Data Science Portfolio"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# 👋 Hello, I'm Isahi Torres
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I'm a data science student at BYU-Idaho with a passion for transforming raw data into meaningful insights. My interests include:
+
+- 🔍 Data cleansing and preprocessing
+- 📊 Exploratory data analysis
+- 🤖 Machine learning and predictive modeling
+- 📈 Storytelling through visualizations
+- 🧠 Competitions and real-world challenges
+
+I'm constantly learning new technologies and applying them to solve real problems. You can explore my resume and projects through the navigation menu above!
+
+## 📬 Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/isahí-torres-00028423b](https://www.linkedin.com/in/isah%C3%AD-torres-00028423b)
+- **Email**: isahi2009@byui.edu
+
+> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+
